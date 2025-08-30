@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prachi-Jadhav
 - 👀 I’m interested in 
-- 🌱 I’m currently a student of diploma
+- 🌱 B.Tech student
 
 <!---
 Prachi-Jadhav/Prachi-Jadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
